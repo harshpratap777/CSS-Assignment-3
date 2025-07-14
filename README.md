@@ -21,16 +21,8 @@ To create a visually engaging layout with:
 | HTML5      | Structure and layout     |
 | CSS3       | Styling, animation, layout grid |
 
----
 
-## 📁 Project Structure
-CSS-Assignment-3/
-├── index.html # Main HTML page with animated components
-├── style.css # External CSS containing 3D and hover animations
-└── README.md # Project documentation
 
-yaml
-Copy code
 
 ## 💡 Key Concepts Covered
 
